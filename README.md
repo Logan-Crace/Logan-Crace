@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Logan-Crace
 - 👀 I’m interested in networking and software development.
-- 🌱 I’m currently learning networking and computer architecture.
+- 🌱 I’m currently learning network and computer architecture.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: here or logancrace@outlook.com
 
