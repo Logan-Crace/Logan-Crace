@@ -1,5 +1,3 @@
-Seeking to create simple solutions in this modern kafkascape we live in.
-
 I don't have anything I really wanna put here, so here are some quotes I like:
 
 "You will never come up against a greater adversary than your own potential, my young friend."
