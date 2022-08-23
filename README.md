@@ -1,4 +1,4 @@
-Programmer and engineer with an interest in security and efficient design. CompTIA A+ and Network+ certified, and studying for Security+. Currently working through The Odin Project curriculum. Find me on Discord: Tachyon#1958
+Programmer and technician with an interest in security and efficient design. CompTIA A+ and Network+ certified, and studying for Security+. Currently working through The Odin Project curriculum. Find me on Discord: Tachyon#1958
 
 --------------------------------------------------------------------------**Quotations**------------------------------------------------------------------
 
