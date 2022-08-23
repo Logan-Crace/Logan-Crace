@@ -1,8 +1,6 @@
 Programmer and technician with an interest in security and efficient design. CompTIA A+ and Network+ certified, and studying for Security+. Currently working through The Odin Project curriculum. Find me on Discord: Tachyon#1958
 
---------------------------------------------------------------------------Quotations------------------------------------------------------------------
-
-
+--------------------------------------------------------------------------**Quotations**------------------------------------------------------------------
 
 "You will never come up against a greater adversary than your own potential, my young friend."
  ― Dr. Paul Stubbs (Ken Jenkins) to Wesley Crusher (TNG 3x01)
